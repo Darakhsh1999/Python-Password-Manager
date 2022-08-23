@@ -13,7 +13,7 @@
 7. In `Decrypter.py` replace ***e_path*** to the same path given in `Encrypter.py`
 8. Now you can run `Decrypter.py` and you'll be prompted with a window to enter your master password 
 
-If the correct master password is entered, a listbox with app names are listed. Double clicking an app brings up user and password information. From the GUI window you can add new apps that get encrypted in real time or edit already existing information.  
+If the correct master password is entered, a listbox with app names are listed. Double clicking an app brings up user and password information. From the GUI window you can add new apps or edit already existing app information.  
 
 **GUI interface**
 
