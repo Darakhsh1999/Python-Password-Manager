@@ -15,6 +15,10 @@
 
 If the correct master password is entered, a listbox with app names are listed. Double clicking an app brings up user and password information. From the GUI window you can add new apps that get encrypted in real time or edit already existing information.  
 
+**GUI interface**
+
+![gui](https://i.imgur.com/41Heyqu.png)
+
 ---
 
 **Requirements**
