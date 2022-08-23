@@ -13,10 +13,10 @@ class Encrypter():
         self.key = key
         self.encrypter = Fernet(self.key)
 
-        self.encrypted_path = r"C:\Users\arash\Documents\python projects\AdvancedEncrypter\EncryptedPasswords.txt" # Encrypted text
+        self.encrypted_path = r"e_path" # Encrypted text
 
         if len(args) == 0:
-            self.decrypted_path = r"C:\Users\arash\Documents\python projects\AdvancedEncrypter\DecryptedPasswords.txt" # Decrypted text
+            self.decrypted_path = r"d_path" # Decrypted text
             
             # Read in decrypted text
             with open(self.decrypted_path, "r") as text:
