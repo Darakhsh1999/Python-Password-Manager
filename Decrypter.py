@@ -14,7 +14,7 @@ class Decrypter():
         ''' Initializes key entry window'''
       
         self.word_check = 'safeword' # Constant
-        self.encrypted_path = r"C:\Users\arash\Documents\python projects\AdvancedEncrypter\EncryptedPasswords.txt"
+        self.encrypted_path = r"e_path"
       
         self.KeyWindow()
         try:
